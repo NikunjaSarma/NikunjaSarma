@@ -5,10 +5,14 @@
 - 💞️ I’m looking to collaborate on [Github](https://github.com/NikunjaSharma)
 - 📫 I'm seeking to learn Computer Science.
 
+# Social
 
 you can check me on!
+
 [Facebook](https://www.facebook.com/nikunjasarmasharmaxarma)
+
 [Instagram](https://www.instagram.com/nikunja___)
+
 [Medum](https://medium.com/@xnikunja)
 <!---
 NikunjaSharma/NikunjaSharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
